@@ -90,6 +90,9 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
     max-width: 1160px;
     margin: 0 auto 0;
 }
+.search-block.show-search{
+    display: block;
+}
 /*====HEADER====*/
 .header{
     background: rgba(0,132,181,.9);
